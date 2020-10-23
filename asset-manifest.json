@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flow-generator/static/css/main.1e8e4b40.chunk.css",
+    "main.js": "/flow-generator/static/js/main.fefcfec5.chunk.js",
+    "main.js.map": "/flow-generator/static/js/main.fefcfec5.chunk.js.map",
+    "runtime-main.js": "/flow-generator/static/js/runtime-main.b6f5ca1a.js",
+    "runtime-main.js.map": "/flow-generator/static/js/runtime-main.b6f5ca1a.js.map",
+    "static/js/2.e07e6162.chunk.js": "/flow-generator/static/js/2.e07e6162.chunk.js",
+    "static/js/2.e07e6162.chunk.js.map": "/flow-generator/static/js/2.e07e6162.chunk.js.map",
+    "index.html": "/flow-generator/index.html",
+    "precache-manifest.1fdb904d0641dbc266d40bbb18065ff8.js": "/flow-generator/precache-manifest.1fdb904d0641dbc266d40bbb18065ff8.js",
+    "service-worker.js": "/flow-generator/service-worker.js",
+    "static/css/main.1e8e4b40.chunk.css.map": "/flow-generator/static/css/main.1e8e4b40.chunk.css.map",
+    "static/js/2.e07e6162.chunk.js.LICENSE.txt": "/flow-generator/static/js/2.e07e6162.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f5ca1a.js",
+    "static/js/2.e07e6162.chunk.js",
+    "static/css/main.1e8e4b40.chunk.css",
+    "static/js/main.fefcfec5.chunk.js"
+  ]
+}
